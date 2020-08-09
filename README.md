@@ -1,2 +1,3 @@
 # demo-repo
-demo for my git tutorials 
+description:
+  demo for my git tutorials!
