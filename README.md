@@ -1,3 +1,3 @@
 # demo-repo
 description:
-  demo for my git tutorials!
+  demo for my git/github videos
